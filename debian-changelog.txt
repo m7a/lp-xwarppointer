@@ -1,0 +1,11 @@
+mdvl-xwarppointer (1.0.1) stable; urgency=medium
+
+  * Switch to ant-based build system.
+
+ -- Linux-Fan, Ma_Sys.ma <Ma_Sys.ma@web.de>  Mon, 17 Feb 2020 12:38:52 +0100
+
+mdvl-xwarppointer (1.0.0) stable; urgency=medium
+
+  * mdvl-xwarppointer package created for MDVL.
+
+ -- Linux-Fan <Ma_Sys.ma@web.de>  Mon, 01 Oct 2018 20:38:21 +0200
